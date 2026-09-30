@@ -33,7 +33,7 @@ function animateSwing(){
 var textContent = {
     "Lila": "Feliz cumpleaños mi ácaro lindo <3 Sos luz en mi vida y en la de muchos. Gracias por convertirte en mi hermana y por todas las que hemos pasado juntas. Te amo con locura y siempre estaré para vos. Gracias por dejarme estar en tu vida y ver lo maravillosa que sos.",
     "Marielos" : "Feliz cumpleaños a una de las personas más especiales que conozco. Gracias por tu cariño y tu amistad, y por compartir tu amor por el anime conmigo. Te quiero un montón y estoy super agradecida con Dios porque te ha dado un año más.",
-    "Celeste": "¡Feliz cumpleaños pulguita bonita! Que bendición ha sido tenerte en mi vida. Te amo mucho y deseo todos lod anhelos de tu corazón se cumplan. Gracias por tanto amor y chick-fil-A. Besitos en la cola"
+    "Celeste": "¡Feliz cumpleaños pulguita bonita! Que bendición ha sido tenerte en mi vida. Te amo mucho y deseo todos los anhelos de tu corazón se cumplan. Gracias por tanto amor y chick-fil-A. Besitos en la cola"
 }
 
 
