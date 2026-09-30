@@ -212,11 +212,12 @@ button:active{
     line-height: 1.7;
 
     overflow-wrap: break-word;
-     font-family: "Indie Flower", cursive;
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
   
 }
+
 .letterPaper { 
     position: relative;
     background-image: url("Img/Cards/cardPaper.png");
